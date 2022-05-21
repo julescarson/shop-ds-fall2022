@@ -1,1 +1,2 @@
-# shop-ds-fall2022
+# Shopify DS Internship (Fall 2022)
+
